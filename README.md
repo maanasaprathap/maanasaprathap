@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🕸️ Built a portfolio once, never touched it again — learned the hard way that manual deployment is just procrastination in disguise. 😅 <br><br>🌟 Serving as Angular Co-Lead at GDG MIT, contributing to impactful web projects.<br><br>🛠️ Currently Working on Flask APIs, serverless deployments, and Prometheus + Grafana monitoring.<br><br>☁️ Exploring cloud-native development, automation, and performance tuning.<br><br>🤝 Open to collabs in backend, DevOps, and infrastructure tooling.<br><br>📚 Active in clubs like CIoT, ACT, and PDA, focusing on UI/UX and web dev.<br><br>☕ Fun fact: I deploy faster with coffee than without CI/CD 😄</p>
+<p align="left">🌟 Serving as Angular Co-Lead at GDG MIT, contributing to impactful web projects.<br><br>🛠️ Currently Working on Flask APIs, serverless deployments, and Prometheus + Grafana monitoring.<br><br>☁️ Exploring cloud-native development, automation, and performance tuning.<br><br>🤝 Open to collabs in backend, DevOps, and infrastructure tooling.<br><br>☕ Fun fact: Built a portfolio once, never touched it again — learned the hard way that manual deployment is just procrastination in disguise 😅😄</p>
 
 ###
 
@@ -115,10 +115,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maanasaprathap&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maanasaprathap&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maanasaprathap&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="134" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maanasaprathap&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=nightowl&hide_border=false&order=2" height="155" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=maanasaprathap&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maanasaprathap&theme=dark_lover&column=4&row=4&margin-w=11&margin-h=11&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maanasaprathap&theme=dark_lover&column=4&row=5&margin-w=14&margin-h=12&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maanasaprathap&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
