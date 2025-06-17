@@ -16,13 +16,13 @@
 
 ###
 
-<p align="left">🕸 Built a portfolio once, never touched it again — learned the hard way that manual deployment is just procrastination in disguise. 😅 <br><br>🌟 Serving as Angular Co-Lead at GDG MIT, contributing to impactful web projects.<br><br>🛠 Currently Working on Flask APIs, serverless deployments, and Prometheus + Grafana monitoring.<br><br>☁ Exploring cloud-native development, automation, and performance tuning.<br><br>🤝 Open to collabs in backend, DevOps, and infrastructure tooling.<br><br>📚 Active in clubs like CIoT, ACT, and PDA, focusing on UI/UX and web dev.<br><br>☕ Fun fact: I deploy faster with coffee than without CI/CD 😄</p>
+<p align="left">🕸️ Built a portfolio once, never touched it again — learned the hard way that manual deployment is just procrastination in disguise. 😅 <br><br>🌟 Serving as Angular Co-Lead at GDG MIT, contributing to impactful web projects.<br><br>🛠️ Currently Working on Flask APIs, serverless deployments, and Prometheus + Grafana monitoring.<br><br>☁️ Exploring cloud-native development, automation, and performance tuning.<br><br>🤝 Open to collabs in backend, DevOps, and infrastructure tooling.<br><br>📚 Active in clubs like CIoT, ACT, and PDA, focusing on UI/UX and web dev.<br><br>☕ Fun fact: I deploy faster with coffee than without CI/CD 😄</p>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">🛠 Technologies and Tools I use:</h2>
+<h2 align="left">🛠️ Technologies and Tools I use:</h2>
 
 ###
 
