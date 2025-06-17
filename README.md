@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Hey! I’m Maanasa, a final-year CS undergrad at Madras Institute of Technology, Anna University 🎓<br>I enjoy turning complex problems into clean, scalable backend solutions 🚀</p>
+<p align="center">Hey! I’m Maanasa, a final-year CS undergrad at Madras Institute of Technology, Anna University 🎓<br>I enjoy turning complex problems into clean, scalable solutions 🚀</p>
 
 ###
 
