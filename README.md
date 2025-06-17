@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<h2 align="left">👩‍💻 About Me :</h2>
+<h2 align="center">👩‍💻 About Me</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<h2 align="left">🛠️ Technologies and Tools I use:</h2>
+<h2 align="center">🛠️ Technologies and Tools I use</h2>
 
 ###
 
@@ -92,7 +92,7 @@
 
 ###
 
-<h2 align="left">Let's get connected:</h2>
+<h2 align="center">🤝  Let's get connected</h2>
 
 ###
 
@@ -103,14 +103,24 @@
   <a href="https://maanasaprathap.github.io/Recreated/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="devto logo"  />
   </a>
-  <a href="maanasaprathapchander@gmail.com" target="_blank">
+  <a href="mailto:maanasaprathapchander@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=pi&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<h2 align="left">📊My GitHub Data :</h2>
+<h2 align="center">📊My GitHub Data</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maanasaprathap&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maanasaprathap&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=maanasaprathap&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maanasaprathap&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maanasaprathap&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
 
@@ -127,15 +137,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/maanasaprathap/maanasaprathap/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maanasaprathap&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maanasaprathap&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=maanasaprathap&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maanasaprathap&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maanasaprathap&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ###
