@@ -12,11 +12,11 @@
 
 ###
 
-<p align="left">🌟 Serving as Angular Co-Lead at GDG MIT, contributing to impactful web projects.<br><br>🛠️ Currently Working on Flask APIs, serverless deployments, and Prometheus + Grafana monitoring.<br><br>☁️ Exploring cloud-native development, automation, and performance tuning.<br><br>🤝 Open to collabs in backend, DevOps, and infrastructure tooling.<br><br>☕ Fun fact: Built a portfolio once, never touched it again — learned the hard way that manual deployment is just procrastination in disguise 😅😄</p>
+<img align="right" height="286" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"  />
 
 ###
 
-<img align="right" height="286" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"  />
+<p align="left">🌟 Serving as Angular Co-Lead at GDG MIT, contributing to impactful web projects.<br><br>🛠️ Currently Working on Flask APIs, serverless deployments, and Prometheus + Grafana monitoring.<br><br>☁️ Exploring cloud-native development, automation, and performance tuning.<br><br>🤝 Open to collabs in backend, DevOps, and infrastructure tooling.<br><br>☕ Fun fact: Built a portfolio once, never touched it again — learned the hard way that manual deployment is just procrastination in disguise 😅😄</p>
 
 ###
 
